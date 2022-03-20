@@ -13,14 +13,14 @@ Missing:
 
 Server:
 
--   cd serve
+-   cd server
 -   yarn install
 -   yarn dev
 
 Client:
 
--   yarn install
 -   cd client
+-   yarn install
 -   yarn start
 
 ## Usage
